@@ -92,7 +92,11 @@ Here are the key findings from the SQL queries performed on the dataset.
     ORDER BY total_sales DESC
     LIMIT 10;
     ```
+## 🗂️ 5. SQL Queries
 
+For a detailed look at the technical analysis, the complete set of SQL queries used for this project can be found in the file below.
+
+**[➡️ View the Complete SQL Query Log](sql_queries.md)**
 ---
 
 ## 5. 📊 Interactive Dashboard
