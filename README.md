@@ -104,7 +104,7 @@ For a detailed look at the technical analysis, the complete set of SQL queries u
 For a visual and interactive summary of these findings, please view the dashboard created to complement this analysis. The dashboard allows for dynamic filtering by region, category, and date.
 
 [➡️ View the Dashboard screenshot Here]
-(sales_dashboard.png)
+![Dashboard Screenshot](sales_dashboard.png)
 
 ---
 
