@@ -34,7 +34,7 @@ v## 🔍 4. Analysis, Findings & Insights
 Here are the key findings from the SQL queries performed on the dataset.
 
 ### a. Overall Financial Performance
-*   **Finding:** The superstore achieved total sales of approximately $2.3 million, yielding a total profit of $286k, resulting in an overall profit margin of **12.45%**. While positive, this indicates room for margin optimization.
+*   **Finding:** The superstore achieved total sales of approximately $2.3 million, yielding a total profit of $287k, resulting in an overall profit margin of **12.45%**. While positive, this indicates room for margin optimization.
     ```sql
     -- Total Sales, Profit, and Overall Profit Margin
     SELECT
@@ -103,7 +103,7 @@ For a detailed look at the technical analysis, the complete set of SQL queries u
 
 For a visual and interactive summary of these findings, please view the dashboard created to complement this analysis. The dashboard allows for dynamic filtering by region, category, and date.
 
-**[➡️ View the Interactive Dashboard Here]([Link to Your Tableau Public, Power BI, or other dashboard])**
+**[➡️ View the Dashboard screenshot Here]([Link to Your Tableau Public, Power BI, or other dashboard])**
 
 ---
 
